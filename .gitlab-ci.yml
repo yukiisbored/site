@@ -1,9 +1,11 @@
 pages:
   stage: deploy
   script:
-  - 'true'
+    - 'true'
   artifacts:
     paths:
-    - '*'
+      - '*'
+    exclude:
+      - .git
   only:
-  - trunk
+    - trunk
