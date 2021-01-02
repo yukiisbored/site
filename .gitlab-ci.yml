@@ -1,0 +1,9 @@
+pages:
+  stage: deploy
+  script:
+  - 'true'
+  artifacts:
+    paths:
+    - .
+  only:
+  - trunk
