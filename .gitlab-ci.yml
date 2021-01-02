@@ -4,8 +4,6 @@ pages:
     - 'true'
   artifacts:
     paths:
-      - '*'
-    exclude:
-      - .git
+      - public
   only:
     - trunk
