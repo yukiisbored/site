@@ -1,0 +1,54 @@
+body {
+    font-family:       monospace;
+    margin:            40px auto;
+    max-width:         900px;
+    line-height:       1.6em;
+    font-size:         18px;
+}
+
+
+header {
+    text-align:        center;
+}
+
+h1 {
+    font-size:         4em;
+}
+
+h2 {
+    font-size:         2.5em;
+}
+
+h3 {
+    border-bottom:     0.1em dashed #ddd;
+}
+
+a {
+    text-decoration:   none;
+}
+
+p {
+    text-align:        justify;
+}
+
+section.character {
+    background:        linear-gradient(90deg,  #fff 0%, #fff 25%, transparent 25%),
+                       linear-gradient(-90deg, #fff 0%, #fff 25%, transparent 25%),
+                       linear-gradient(45deg,  #FF03A1 0%, #FB600D 100%);
+}
+
+section.character > img {
+    max-width:         100%;
+    height:            auto;
+    filter:            drop-shadow(0.5em 0.5em 0.75em #333);
+}
+
+span.shadow {
+    color:             #ccc;
+}
+
+.border {
+    border:            0.1em dashed #ccc;
+    padding:           0px 16px;
+    margin:            16px 0px;
+}
