@@ -1,0 +1,135 @@
+html [lang="en"]
+    head
+        title "yukiisbo.red"
+        meta [charset="utf-8"]
+        link [rel="stylesheet" type="text/css" href="style.css"]
+
+    body
+        section [class="character"]
+            img [src="img/character.png" alt="Character drawing by Luciel Teo"]
+
+        header
+            h1 "yuki_is_bored"
+            h2 "UNIX and *BSD Hacker"
+
+        section [class="border"]
+            h3 "whoami"
+
+            p
+                "Hello world, I'm yuki_is_bored, or just "Yuki". I'm "
+                "just yet another nerd who loves free and open source "
+                "software and was born in Jakarta, Indonesia."
+
+            p
+                "I'm a user of OpenBSD and maintain some ports for it, "
+                "notably sysutils/docker-cli and games/multimc. I also "
+                "use FreeBSD (or HardenedBSD) for some machines that "
+                "has specific requirements such as ZFS."
+
+            p
+                "By profession, I work as a "DevOps Engineer" where I "
+                "maintain infrastructure composed of mainly Linux "
+                "machines using technologies such as Docker, "
+                "Kubernetes, Ansible while also helping developers "
+                "getting their stuff deployed and running."
+
+            p
+                "On the programming side, I'm interested in functional "
+                "programming with languages such as Haskell, Lisp, Rust "
+                "and Elixir. While also have knowledge of other "
+                "(popular) languages such as Python, Ruby, PHP, Shell, "
+                "C, C++, JavaScript, etc. So, I'm pretty much language "
+                "agnostic when it comes to programming."
+
+            p
+                "On the non-techy side, I'm interested in learning "
+                "foreign languages. Excluding local Indonesian "
+                "languages, I'd say that I'm competent in English and "
+                "French but I've dabbled in other asian and european "
+                "languages too. Other than that, I'm interested in "
+                "music and various audio-visual works where my "
+                "techy-side influenced my taste and preferences."
+
+            p
+                "I don't really author a lot of projects and I don't "
+                "see the point of doing so when there's an existing "
+                "solution that already fits my needs but I try to "
+                "contribute to free and open source projects that I "
+                "rely on everyday."
+
+        section [class="border"]
+            h3 "socials"
+            ul
+                li
+                    "Email: "
+                    a [href="mailto:hi@yukiisbo.red"] "hi@yukiisbo.red"
+
+                li
+                    "Fediverse: "
+                    a [href="https://bsd.network/@yuki_is_bored"] "@yuki_is_bored@bsd.network"
+
+                li
+                    "Discord: "
+                    a [href="https://discordapp.com/users/137199408436609024"] "@Yuki is Bored#1820"
+
+                li
+                    "Telegram: "
+                    a [href="https://telegram.me/yuki_is_bored"] "@yuki_is_bored"
+
+                li
+                    "IRC: yuki_is_bored @ "
+                    a [href="https://freenode.net"] "freenode"
+
+                li
+                    "Twitter: "
+                    a [href="https://twitter.com/yuki_is_bored"] "@yuki_is_bored"
+                    " (inactive)"
+
+                li
+                    "LinkedIn: "
+                    a [href="https://linkedin.com/in/yukiisbored"] "/in/yukiisbored"
+
+                li
+                    "Steam: "
+                    a [href="https://steamcommunity.com/id/yuki_is_bored"] "yuki_is_bored"
+
+        section [class="border"]
+            h3 "projects"
+            ul
+                li
+                    "Personal: "
+                    a [href="https://git.yukiisbo.red/yuki"] "git.yukiisbo.red/yuki"
+                li
+                    "GitLab: "
+                    a [href="https://gitlab.com/yuki_is_bored"] "gitlab.com/yuki_is_bored"
+                li
+                    "GitHub: "
+                    a [href="https://github.com/yukiisbored"] "github.com/yukiisbored"
+
+        footer [class="border"]
+            p
+                "Proudly JavaScript free and compatible with 99% of "
+                "browsers :^)"
+            p
+                "Character art by "
+                a [href="https://twitter.com/Luciel_Teo"] "@Luciel_Teo"
+                ", licensed under "
+                a [href="http://creativecommons.org/licenses/by-sa/4.0/"] "CC-BY-SA 4.0"
+                "."
+
+           p
+                "This website is proudly authored and written in "
+                a [href="https://git.yukiisbo.red/yuki/cock"] "cock"
+                " - a simplified markup language to author HTML pages."
+
+            p
+                "Unless specified otherwise, "
+                "This website is free and unencumbered public domain software. "
+                "For more information, see "
+                a [href="https://unlicense.org"] "Unlicensed"
+                "."
+
+            p
+                "Source available at "
+                a [href="https://git.yukiisbo.red/yuki/site"] "git://git.yukiisbo.red/yuki/site"
+                "."

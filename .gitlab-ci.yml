@@ -1,7 +1,13 @@
+image: nixos/nix:latest
+
 pages:
   stage: deploy
+  before_script:
+    - nix-env -iA nixpkgs.git
+    - git clone https://git.yukiisbo.red/yuki/cock
+    - nix-env -f cock/release.nix -i
   script:
-    - 'true'
+    - cock --input public/index.cock --output public/index.html
   artifacts:
     paths:
       - public
