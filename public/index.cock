@@ -16,7 +16,7 @@ html [lang="en"]
             h3 "whoami"
 
             p
-                "Hello world, I'm yuki_is_bored, or just 'Yuki'. I'm "
+                `Hello world, I'm yuki_is_bored, or just "Yuki". I'm `
                 "just yet another nerd who loves free and open source "
                 "software and was born in Jakarta, Indonesia."
 
@@ -27,7 +27,7 @@ html [lang="en"]
                 "has specific requirements such as ZFS."
 
             p
-                "By profession, I work as a 'DevOps Engineer' where I "
+                `By profession, I work as a "DevOps Engineer" where I `
                 "maintain infrastructure composed of mainly Linux "
                 "machines using technologies such as Docker, "
                 "Kubernetes, Ansible while also helping developers "
