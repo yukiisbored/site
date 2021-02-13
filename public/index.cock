@@ -68,12 +68,16 @@ html [lang="en"]
 
          li "Discord: "
              a [href="https://discordapp.com/users/137199408436609024"] "@Yuki is Bored#1820"
+             " (inactive)"
 
          li "Telegram: "
              a [href="https://telegram.me/yuki_is_bored"] "@yuki_is_bored"
 
          li "IRC: yuki_is_bored @ "
             a [href="https://freenode.net"] "freenode"
+
+         li "XMPP: "
+            a [href="xmpp:yuki@miqote.com"] "yuki@miqote.com"
 
          li "Twitter: "
             a [href="https://twitter.com/yuki_is_bored"] "@yuki_is_bored"
