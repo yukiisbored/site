@@ -67,7 +67,7 @@ html [lang="en"]
               a [href="https://bsd.network/@yuki_is_bored"] "@yuki_is_bored@bsd.network"
 
          li "Matrix"
-             a [href="https://matrix.to/#/@yuki:backalley.club" "@yuki:backalley.club"
+             a [href="https://matrix.to/#/@yuki:backalley.club"] "@yuki:backalley.club"
 
          li "Discord: "
              a [href="https://discordapp.com/users/137199408436609024"] "@Yuki is Bored#1820"
