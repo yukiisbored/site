@@ -76,9 +76,6 @@ html [lang="en"]
          li "Telegram: "
              a [href="https://telegram.me/yuki_is_bored"] "@yuki_is_bored"
 
-         li "IRC: yuki_is_bored @ "
-            a [href="https://freenode.net"] "freenode"
-
          li "XMPP: "
             a [href="xmpp:yuki@miqote.com"] "yuki@miqote.com"
 
